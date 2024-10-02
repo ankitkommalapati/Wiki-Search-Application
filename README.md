@@ -12,4 +12,4 @@ A simple web application that allows users to search Wikipedia using a keyword. 
 - **Bootstrap 4**: For responsive layout and components.
 - **Wikipedia Search API**: To fetch search results dynamically from Wikipedia.
 
-[Watch the application live](wikit.ccbp.tech)
+[Watch the application live](https://wikit.ccbp.tech/)
